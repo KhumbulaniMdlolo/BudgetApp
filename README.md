@@ -25,7 +25,7 @@ Screens
 
 Installation
 1.	Clone the repository:
-git clone https://github.com/KhumbulaniMdlolo/budgeter.git
+git clone https://github.com/KhumbulaniMdlolo/budgeter.zip
 2.	Open the project in Android Studio.
 3.	Sync Gradle and run the app on an emulator or connected device.
 
